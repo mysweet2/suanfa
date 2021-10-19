@@ -1,5 +1,12 @@
 package hard;
 
+
+/**
+ *
+ * 力扣算法题：https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
+ *
+ * 找出两个数组的中位数
+ */
 public class FindMiddleNumber {
 
 
